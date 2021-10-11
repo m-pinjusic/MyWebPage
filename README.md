@@ -1,4 +1,4 @@
-# MyWebPage (mywebpage)
+# MyWebPage
 
 Web page for promotional business, videographers and photographers.
 
