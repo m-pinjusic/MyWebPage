@@ -3,6 +3,8 @@
 
 My first page for viewing galleries and videos with a simple interface so interested clients can easily and quickly view pictures and videos and contact the client.
 
+Elements such as the number of clients, projects, etc. are stored in the Firestore database. It can then be changed by accessing the administrator password page.
+You can see page preview and Firestore database structure below.
 ![](photos/preview1.png)
 ![](photos/preview2.png)
 ![](photos/preview3.png)
