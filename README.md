@@ -3,6 +3,14 @@
 
 My first page for viewing galleries and videos with a simple interface so interested clients can easily and quickly view pictures and videos and contact the client.
 
+![](photos/preview1.png)
+![](photos/preview2.png)
+![](photos/preview3.png)
+![](photos/preview4.png)
+![](photos/preview5.png)
+![](photos/preview6.png)
+![](photos/firestore.png)
+
 ## Install the dependencies
 ```bash
 npm install
